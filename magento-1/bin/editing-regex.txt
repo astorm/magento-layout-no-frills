@@ -1,0 +1,35 @@
+Checking for a possible miscapitolized Block
+
+	ack '[^a-zA-Z_/]Block' *.markdown
+
+Lowercased HTML in prose
+
+	ack '[^a-zA-Z_/$.]html' *.markdown
+
+test list instead of text list
+
+	ack -i 'test[ _]list' *.markdown
+
+Word "out" in a sentance.  Won't catch the first sentance of a paragrapth
+
+	[\.\!\?].+?\bout\b.*?[\.\!\?]
+
+Out Examples
+
+	ack -i '\bout example'
+	
+No plurel
+
+	ack 'name which' *.markdown	
+
+Checking for a possible miscapitolized Helper
+
+	ack '[^a-zA-Z_/]Helper' *.markdown
+
+Checking for bad plural
+
+	ack -i 'it add the' *.markdownAlan
+
+Checking for a possible miscapitolized Helper	
+	ack '[^a-zA-Z_/]Model' *.markdown
+	

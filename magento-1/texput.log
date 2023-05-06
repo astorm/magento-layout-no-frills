@@ -1,0 +1,19 @@
+This is pdfTeX, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2011.4.4)  29 JAN 2012 11:49
+entering extended mode
+**deliverable/nofrills_layout/No_Frills_Magento_Layout.tex
+
+! Emergency stop.
+<*> ...ofrills_layout/No_Frills_Magento_Layout.tex
+                                                  
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 4 strings out of 94073
+ 142 string characters out of 1164798
+ 48804 words of memory out of 1500000
+ 3390 multiletter control sequences out of 10000+50000
+ 3640 words of font info for 14 fonts, out of 1200000 for 2000
+ 645 hyphenation exceptions out of 8191
+ 0i,0n,0p,1b,6s stack positions out of 5000i,500n,6000p,200000b,5000s
+!  ==> Fatal error occurred, no output PDF file produced!

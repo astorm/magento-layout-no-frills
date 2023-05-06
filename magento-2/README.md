@@ -1,4 +1,4 @@
-# No Frilles Magento 2 Layout
+# No Frills Magento 2 Layout
 
 Build is currently a manual process.  You'll need
 
