@@ -1,6 +1,6 @@
 # magento-layout-no-frills
 
-Repo for the Creative Commons published No Frills Magento Layout
+Repo for No Frills Magento Layout Copyright © Pulse Storm LLC and Alana Storm
 
 ## Next Steps
 
