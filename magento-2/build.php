@@ -154,7 +154,7 @@ function pestle_cli($argv, $options)
     // echo `pandoc /tmp/working.md -V documentclass=book -V classoption=oneside --template nofrills --toc -s --listings -o output/No-Frills-Magento-2-Layout.tex`;
     // echo `pandoc /tmp/working.md -o new.pdf --from markdown --template eisvogel --listings --toc -s -o output/No-Frills-Magento-2-Layout.tex`;
     //     echo `pandoc output/No-Frills-Magento-2-Layout.tex -V documentclass=book -V classoption=oneside --template nofrills --toc -s --listings --latex-engine=xelatex -o output/No-Frills-Magento-2-Layout.pdf `;
-    echo `pandoc output/No-Frills-Magento-2-Layout.tex -V documentclass=book -V classoption=oneside --template nofrills --toc -s --listings --pdf-engine=xelatex -o output/No-Frills-Magento-2-Layout.pdf `;
+    echo `pandoc --data-dir ./ output/No-Frills-Magento-2-Layout.tex -V documentclass=book -V classoption=oneside --template nofrills --toc -s --listings --pdf-engine=xelatex -o output/No-Frills-Magento-2-Layout.pdf`;
     echo `pandoc /tmp/working.md --toc -s -o output/No-Frills-Magento-2-Layout.html `;
     echo `pandoc /tmp/working.md --toc -s -o output/No-Frills-Magento-2-Layout.epub`;
     echo `pandoc /tmp/working.md --toc -s -o output/No-Frills-Magento-2-Layout.epub3`;
