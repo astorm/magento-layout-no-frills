@@ -4,7 +4,7 @@ Repo for No Frills Magento Layout Copyright © Pulse Storm LLC and Alana Storm
 
 ## Next Steps
 
-Here's where this repo is headed over the next `[regional time period]`.  If you're feeling excited about taking something on just say hello first ot make sure the change would be welcome, and then have at it.
+Here's where this repo is headed over the next `[regional time period]`.  If you're feeling excited about taking something on just say hello first to make sure the change would be welcome, and then have at it.
 
 Also, pull requests to fix grammar, typos, or technical content will _always_ be engaged with.
 
